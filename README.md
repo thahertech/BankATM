@@ -1,9 +1,5 @@
-Group 16
 
-TVT20KMO 
+  Project done by : Thaher Al Amir 
 
-Thaher Al Amir 
-Aino-Sisko Auvinen 
-Markus Ojala 
-
-Ohjelmistokehitys Projekti / Group 16 / Bank Automat
+  This C++ project is done using QT to develop the Front-End needed
+  
